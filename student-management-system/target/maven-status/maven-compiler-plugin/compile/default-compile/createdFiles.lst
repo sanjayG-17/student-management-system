@@ -1,0 +1,3 @@
+com\example\studentmanagement\controller\StudentController.class
+com\example\studentmanagement\StudentManagementApplication.class
+com\example\studentmanagement\config\OpenApiConfig.class

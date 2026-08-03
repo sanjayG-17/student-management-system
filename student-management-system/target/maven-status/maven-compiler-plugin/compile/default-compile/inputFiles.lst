@@ -1,0 +1,13 @@
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\config\OpenApiConfig.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\controller\StudentController.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\dto\ApiResponse.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\dto\ErrorResponse.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\dto\StudentRequest.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\exception\DuplicateEmailException.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\exception\DuplicatePhoneNumberException.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\exception\GlobalExceptionHandler.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\exception\ResourceNotFoundException.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\model\Student.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\repository\StudentRepository.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\service\StudentService.java
+C:\Users\sanja\.gemini\antigravity-ide\scratch\student-management-system\src\main\java\com\example\studentmanagement\StudentManagementApplication.java
